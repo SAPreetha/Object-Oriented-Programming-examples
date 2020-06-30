@@ -21,7 +21,9 @@ $ python3 hangman.py
 1. Incorrect guess letters are penalized once for each wrong letter.
 
 2. 6 chances of wrong letters
-3 If a letter is present multiple times. Guessing it once is enough. It shows up at all places.
 
-4 Input game level from 1-4 easy, medium, had, superhard
+
+3. If a letter is present multiple times. Guessing it once is enough. It shows up at all places.
+
+4. Input game level from 1-4 easy, medium, had, superhard
 
