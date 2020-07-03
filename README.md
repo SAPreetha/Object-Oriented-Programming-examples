@@ -8,6 +8,13 @@ Examples of OOP including Tic-Tac-Toe, Connect 4 (N*N board), Hangman
 ```
 $ python3 tto.py
 ```
+### 2) Connect4 ###
+
+* Standard connect4 game.
+
+```
+$ python3 tto.py
+```
 
 ### 2)Hangman ###
 
@@ -25,5 +32,5 @@ $ python3 hangman.py
 
 3. If a letter is present multiple times. Guessing it once is enough. It shows up at all places.
 
-4. Input game level from 1-4 easy, medium, had, superhard
+4. Input game level from 1-4 easy, medium, hard, superhard
 
