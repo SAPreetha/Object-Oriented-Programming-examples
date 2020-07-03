@@ -16,7 +16,7 @@ $ python3 tto.py
 $ python3 tto.py
 ```
 
-### 2)Hangman ###
+### 3)Hangman ###
 
 * Instructions for running the game on the terminal: 
 
